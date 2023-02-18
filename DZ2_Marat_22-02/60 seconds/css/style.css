@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 100px auto;
+    width: 700px;
+
+}
+
+#seconds {
+    font-size: 250px;
+    color: white;
+}
+
+#text {
+    font-size: 100px;
+    text-transform: uppercase;
+    color: white;
+}
+#timeOut {
+    font-size: 80px;
+    text-transform: uppercase;
+    color: white;
+}
